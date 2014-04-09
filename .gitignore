@@ -1,0 +1,4 @@
+#in order to run, all libraries for the exchanges need to be present (for not until I feel like making a try/except for making the directiories)
+*.txt
+*.csv
+test.py
